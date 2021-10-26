@@ -1,0 +1,8 @@
+- AI that is swapped into still has AI running or something. it's weird
+- increase virtualized movement speed
+- fix vehicle shop to not apply colors to 40k vehicles
+- increase squig HP (maybe figure out why they dont seem to work as expected?)
+- fix reinforcement logistics (objective doesn't stay held for some reason, probably move the logi module over so it selects that instead of the airport created obj)
+- add supply convoys
+- update kaboom for wh40k
+- heads showing up between legs
